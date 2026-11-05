@@ -80,7 +80,6 @@ I'm a **Computer Science** student at UniCEUB, with an academic exchange at **Qu
 
 - **B.Sc. in Computer Science** — Centro Universitário de Brasília (UniCEUB) · *2023 – 2027*
 - **Study Abroad in Computer Science** — Queensland University of Technology (QUT), Brisbane, Australia · *2026*
-- **PMI CAPM** — in progress
 
 **Languages:** Portuguese (native) · English (fluent, C1 — IELTS Academic)
 

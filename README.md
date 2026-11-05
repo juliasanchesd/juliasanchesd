@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Júlia Sanches — Web Developer + Project Manager" width="100%">
+  <img src="assets/banner.svg" alt="Júlia Sanches — Web Developer + Project Manager" width="100%">
 </p>
 
 <p align="center">
